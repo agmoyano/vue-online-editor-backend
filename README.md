@@ -1,6 +1,6 @@
 # online-editor
 
-This is the frontend part of Vue Experimental Online Editor (VEOE)
+This is the backend part of Vue Experimental Online Editor (VEOE)
 
 This is just a training project, so it's not complete
 
